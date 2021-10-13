@@ -1,10 +1,10 @@
 {
     "name": "indevops/libcalendaring",
     "type": "roundcube-plugin",
-    "description": "Library providing common functions for calendaring plugins. The _te stands for Texas Edition",
-    "homepage": "https://github.com/texxasrulez/caldav_calendar_te",
+    "description": "Library providing common functions for calendaring plugins. Fork of Texas Edition, which in turn is a fork of the original Kolab libcalendaring.",
+    "homepage": "https://github.com/INDEVOPS/roundcube_libcalendaring",
     "license": "GPL-3.0-only",
-    "version": "0.6.0.2",
+    "version": "0.7",
     "authors": [{
             "name": "Thomas Bruederli",
             "email": "bruederli@kolabsys.com",
@@ -18,6 +18,11 @@
         {
             "name": "Gene Hawkins",
             "email": "texxasrulez@yahoo.com",
+            "role": "Developer"
+        },
+        {
+            "name": "INDEVOPS",
+            "email": "it@indevops.com",
             "role": "Developer"
         }
     ],
